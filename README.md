@@ -14,6 +14,16 @@
 
 [Программирование 4 семестр](https://github.com/strijovegor/Prog4Sem)
 
+[Операционные системы](https://disk.yandex.ru/d/UKgCQfyAlDNsjw)
+
+[Курсовая работа](https://disk.yandex.ru/i/_UTcebTZc8XMQw)
+
+[Основы компьютерной алгебры](https://disk.yandex.ru/d/AMKFo1kQ2Ia3lA)
+
+[Физика](https://disk.yandex.ru/d/dIqmhIdAyyS2fA)
+
+[Разработка приложения для вычесления численного интеграла](https://disk.yandex.ru/i/80x7YpeBehX5Cw)
+
 
 ## 3 курс
 [Сети и Телекоммуникация](https://disk.yandex.ru/d/mZvU824dxyehcA)
@@ -28,5 +38,21 @@
 
 [ПК графика](https://github.com/strijovegor/PCGraphics)
 
+[Курсовая работа](https://disk.yandex.ru/i/VSuhBwQEnk_DLg)
+
+[Бизнесс информатика](https://disk.yandex.ru/d/-9NYxGACuZPT1A)
+
+[Практика](https://disk.yandex.ru/d/zAKuf0230CnhDQ)
+
 ## 4 курс
-[]()
+[Курсовая работа](https://disk.yandex.ru/d/nokYJ-vLu8k1LQ)
+
+[Мировые информационные ресурсы и цифровые библиотеки](https://disk.yandex.ru/d/myhQlU8fHEpu1Q)
+
+[IT-рекрутмент](https://disk.yandex.ru/d/NOv8urBiOqi0Rg)
+
+[Средства анлиза данных](https://disk.yandex.ru/d/4PMeLIOrf0sqIA)
+
+[Дипломная работа](https://docs.google.com/document/d/17y5wJKDPdvL9A6hrUpJGpgrRv32FxnVLvWsB3_ifyVY/edit#)
+
+
