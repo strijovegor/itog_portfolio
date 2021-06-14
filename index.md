@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Портфолио за 4 года
 
-You can use the [editor on GitHub](https://github.com/strijovegor/itog_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 1 курс
+[Информатика](https://disk.yandex.ru/d/LQd6hj9Cm4SujQ)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Программирование СИ](https://disk.yandex.ru/d/q34tke3CzstsDg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 2 курс
+[Веб Программирование](https://github.com/strijovegor/Portfolio)
 
-# Header 1
-## Header 2
-### Header 3
+[Программирование 3 семестр](https://github.com/strijovegor/Prog3Sem)
 
-- Bulleted
-- List
+[Программирование 4 семестр](https://github.com/strijovegor/Prog4Sem)
 
-1. Numbered
-2. List
+[Операционные системы](https://disk.yandex.ru/d/UKgCQfyAlDNsjw)
 
-**Bold** and _Italic_ and `Code` text
+[Курсовая работа](https://disk.yandex.ru/i/_UTcebTZc8XMQw)
 
-[Link](url) and ![Image](src)
-```
+[Основы компьютерной алгебры](https://disk.yandex.ru/d/AMKFo1kQ2Ia3lA)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Физика](https://disk.yandex.ru/d/dIqmhIdAyyS2fA)
 
-### Jekyll Themes
+[Разработка приложения для вычесления численного интеграла](https://disk.yandex.ru/i/80x7YpeBehX5Cw)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/strijovegor/itog_portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## 3 курс
+[Сети и Телекоммуникация](https://disk.yandex.ru/d/mZvU824dxyehcA)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Защита информации](https://disk.yandex.ru/d/PHqmFqc8d0t1mw)
+
+[1C](https://disk.yandex.ru/d/E9akl_DxCZB48g)
+
+[Программирование 5 семестр](https://github.com/strijovegor/Prog5Sem)
+
+[Программирование 6 семестр](https://github.com/strijovegor/Sem6Prog)
+
+[ПК графика](https://github.com/strijovegor/PCGraphics)
+
+[Курсовая работа](https://disk.yandex.ru/i/VSuhBwQEnk_DLg)
+
+[Бизнесс информатика](https://disk.yandex.ru/d/-9NYxGACuZPT1A)
+
+[Практика](https://disk.yandex.ru/d/zAKuf0230CnhDQ)
+
+## 4 курс
+[Курсовая работа](https://disk.yandex.ru/d/nokYJ-vLu8k1LQ)
+
+[Мировые информационные ресурсы и цифровые библиотеки](https://disk.yandex.ru/d/myhQlU8fHEpu1Q)
+
+[IT-рекрутмент](https://disk.yandex.ru/d/NOv8urBiOqi0Rg)
+
+[Средства анлиза данных](https://disk.yandex.ru/d/4PMeLIOrf0sqIA)
+
+[Дипломная работа](https://docs.google.com/document/d/17y5wJKDPdvL9A6hrUpJGpgrRv32FxnVLvWsB3_ifyVY/edit#)
